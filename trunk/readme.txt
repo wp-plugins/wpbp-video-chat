@@ -1,6 +1,6 @@
 === wpbp-video-chat ===
 
-Contributors: http://profiles.wordpress.org/ruddernation
+Contributors: ruddernation
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FFAC7FBEBH6JE
 Tags: video chat, Tinychat, chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat
 Requires at least: WordPress 3.6.0, BuddyPress 1.8.1
