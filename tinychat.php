@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: wpbp-video-chat
+* Plugin Name: wordpress-video-chat
 * Plugin URI: https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat
 * Author: Ruddernation Designs
 * Author URI: http://profiles.wordpress.org/ruddernation
@@ -8,7 +8,7 @@
 This also has YouTube/SoundCloud for all chatters and now has smileys enabled using my embed file.
 * Requires at least: WordPress 3.6.0, BuddyPress 1.8.1
 * Tested up to: WordPress 3.9.1 / BuddyPress 2.0.1
-* Version: 1.0.6
+* Version: 1.0.7
 * License: GPL
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * Date: 10th July 2014
