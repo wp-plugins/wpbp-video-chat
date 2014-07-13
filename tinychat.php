@@ -1,20 +1,20 @@
 <?php
 /*
-* Plugin Name: wordpress-video-chat
-* Plugin URI: https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat
+* Plugin Name: Wordpress Video Chat
+* Plugin URI: https://wordpress.org/plugins/wpbp-video-chat/
 * Author: Ruddernation Designs
 * Author URI: http://profiles.wordpress.org/ruddernation
 * Description: TinyChat full screen video chat for BuddyPress/WordPress,
 This also has YouTube/SoundCloud for all chatters and now has smileys enabled using my embed file.
 * Requires at least: WordPress 3.6.0, BuddyPress 1.8.1
-* Tested up to: WordPress 3.9.1 / BuddyPress 2.0.1
-* Version: 1.0.7
-* License: GPL
-* License URI: http://www.gnu.org/licenses/gpl-2.0.html
-* Date: 10th July 2014
+* Tested up to: WordPress 4.0 / BuddyPress 2.0.1
+* Version: 1.0.8
+* License: GPLv3
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Date: 13th July 2014
 */
 
-define('COMPARE_VERSION', '1.0.6');
+define('COMPARE_VERSION', '1.0.8');
 
 register_activation_hook(__FILE__, 'tinychat_install');
 
@@ -62,33 +62,8 @@ function wp_show_tinychat_page($content = '') {
 
 	if(preg_match("/\[tinychat_page\]/",$content)) {
 
-		wp_show_tinychat();
-
-		return "";
-
 	}
-
-
-	return $content;
-
-}
-
-
-function wp_show_tinychat() {
-
-	$current_user = wp_get_current_user();
-
-
-
-	if(!get_option('tinychat_chat_enabled', 0)) {
-
-		return;
-
-	}
-
-	$parameters = substr( $parameterString, 0, -2 );
-
-	$tinychat_display = true; ?>
+?>
 	<style>#chat{height:98%;width:100%;left:0px; right:0px; bottom:0px; position:absolute;}</style>
 <div id="chat">
 <script src="https://www.ruddernation.com/info/js/slag.js"></script>
