@@ -1,13 +1,13 @@
-=== wordpress-video-chat ===
+=== Wordpress Video Chat ===
 
 Contributors: ruddernation
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FFAC7FBEBH6JE
 Tags: video chat, Tinychat, chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat
 Requires at least: 3.6.0
-Tested up to: 3.9.1
-Stable tag: 1.0.7
-License: GPL
-License URI: http://www.gnu.org/licenses/gpl.html
+Tested up to: 4.0
+Stable tag: 1.0.8
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
@@ -59,6 +59,9 @@ This way it'll never conflict with other rooms on TinyChat.
 = 1.0.6 = 
 * Removed some unnecessary code, it should also load quicker.
 
+= 1.0.8 = 
+* Now works in all themes and on WordPress 4.0.
+
 == Changelog ==
 
 = 1.0.1 =
@@ -84,6 +87,10 @@ This way it'll never conflict with other rooms on TinyChat.
 
 = 1.0.7 = 
 * Renamed to wordpress-video-chat for easier seaching of the plugin.
+
+= 1.0.8 = 
+* Major update to the core as it was only loading on certain themes, 
+Also there seemed to be a conflict with another plugin.
 
 == Social Sites ==
 * Google+ - https://plus.google.com/115608989177049799241/about
