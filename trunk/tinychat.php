@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: wordpress-video-chat
-* Plugin URI: https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat
+* Plugin URI: https://wordpress.org/plugins/wpbp-video-chat/
 * Author: Ruddernation Designs
 * Author URI: http://profiles.wordpress.org/ruddernation
 * Description: TinyChat full screen video chat for BuddyPress/WordPress,
