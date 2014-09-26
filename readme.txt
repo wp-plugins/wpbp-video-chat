@@ -24,13 +24,13 @@ If you want to use Tinychats original then you'll have to change the embed file 
 
 == Screenshots ==
 
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-1.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-2.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-3.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-4.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-5.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-6.jpg
-* https://www.ruddernation.com/downloads/wordpress-plugins/wpbp-video-chat/screenshot-7.jpg
+* TinyChat load screen, Users of TinyChat will notice the colour change.
+* Once loaded you'll have to enter a name.
+* This is showing the YouTube/Soundcloud buttons.
+* Both show popups which you just enter what you'd like to search.
+* This is how it displays with both YouTube and Soundcloud.
+* Click this to maximize the video size, This also works when you're on camera.
+* This is how it looks using the larger video's.
 
 == Notes ==
 
