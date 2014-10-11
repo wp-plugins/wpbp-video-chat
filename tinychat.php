@@ -11,12 +11,11 @@ This also has YouTube/SoundCloud for all chatters and now has smileys enabled us
 * Version: 1.1.6
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
-* Date: 06th October 2014
+* Date: 11th October 2014
 */
 define('COMPARE_VERSION', '1.1.6');
 register_activation_hook(__FILE__, 'wordpress_chat_install');
 function wordpress_chat_install() {
-
 	global $wpdb, $wp_version;
 	$post_date = date("Y-m-d H:i:s");
 	$post_date_gmt = gmdate("Y-m-d H:i:s");
