@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: video chat, tinychat, chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat
 Requires at least: 3.6.0
 Tested up to: 4.1
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -111,6 +111,12 @@ Also there seemed to be a conflict with another plugin.
 = 1.2.9 =
 * Fixed the account issue, It'll now get user ID (Number) so you can private message each other in chat.
 
+= 1.3.2 =
+* It will now grab the correct username, This will also display a profile in your name on TinyChat.
+
 == Social Sites ==
+* Facebook - https://www.facebook.com/rndtc
+* Twitter - https://twitter.com/R_N_Designs
 * Github - https://github.com/ruddernation
 * WordPress - https://profiles.wordpress.org/ruddernation
+* Skype - ruddernation.designs
