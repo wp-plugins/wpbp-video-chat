@@ -47,7 +47,13 @@ If anyone else requires another feature or has an idea for me to implement, Then
 == Frequently Asked Questions ==
 
 * Q. Can I use this if I'm not logged in?
-* A. Yes!.
+* A. No!, I removed that feature due to a few requests, You can simply allow guest access by removing - *}
+function wp_show_wordpress_chat() {
+	$current_user = wp_get_current_user();
+	if($current_user->ID == 0) {
+		echo('<b>You are not logged in, please login before trying to chat!</b>' );
+		return;
+	}* on line 53
 
 * Q. The chat is not loading for me.
 * A. Check to see if you have the Adobe flash player installed (http://helpx.adobe.com/flash-player.html) and JavaScript enabled in your browser.
