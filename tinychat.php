@@ -59,7 +59,7 @@ function wp_show_wordpress_chat() {
 	}?>
 	<style>#chat{position:fixed;left:0px;right:0px;bottom:0px;height:98%;width:100%;z-index:9999}</style>
 <div id="chat">
-<script  data-cfasync="false" src="https://www.ruddernation.info/info/js/slagmodified.js?version=1.0"></script>
+<script  data-cfasync="false" src="https://www.ruddernation.info/info/js/slagmodified.js?version=1.1"></script>
 	<script  data-cfasync="false" type='text/javascript'>
 var embed;
 embed = tinychat ({room: "<?php echo htmlspecialchars($_SERVER['SERVER_NAME'],ENT_QUOTES, 'UTF-8') ?>", <?php {echo ' account: "'.$current_user->user_login.'",';?> <?php echo 'nick: "' . $current_user->display_name .'"';?>,urlsuper:"<?php echo $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"] ?>"});
