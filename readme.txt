@@ -1,4 +1,4 @@
-=== Wordpress Video Chat ===
+=== Wordpress Video Chat - Only updated on Github ===
 
 Contributors: ruddernation
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FFAC7FBEBH6JE

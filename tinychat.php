@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: Wordpress Video Chat
+* Plugin Name: Wordpress Video Chat - Only updated on Github 
 * Plugin URI: https://wordpress.org/plugins/wpbp-video-chat/
 * Author: Ruddernation Designs
 * Author URI: http://profiles.wordpress.org/ruddernation
