@@ -1,11 +1,11 @@
-=== Wordpress Video Chat - Only updated on Github ===
+=== Wordpress Video Chat ===
 
 Contributors: ruddernation
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FFAC7FBEBH6JE
 Tags: video chat, tinychat, chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat
 Requires at least: 3.6.0
-Tested up to: 4.2
-Stable tag: 1.3.9.3
+Tested up to: 4.3
+Stable tag: 1.4.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -53,7 +53,7 @@ function wp_show_wordpress_chat() {
 	if($current_user->ID == 0) {
 		echo('<b>You are not logged in, please login before trying to chat!</b>' );
 		return;
-	} * on line 53
+	} *
 
 * Q. The chat is not loading for me.
 * A. Check to see if you have the Adobe flash player installed (http://helpx.adobe.com/flash-player.html) and JavaScript enabled in your browser.
@@ -136,5 +136,3 @@ Also there seemed to be a conflict with another plugin.
 * Github - https://github.com/ruddernation
 
 * WordPress - https://profiles.wordpress.org/ruddernation
-
-* Skype - ruddernation.designs
