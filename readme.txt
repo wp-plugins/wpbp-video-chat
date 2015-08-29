@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: video chat, tinychat, chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat
 Requires at least: 3.6.0
 Tested up to: 4.3
-Stable tag: 1.5.7
+Stable tag: 1.5.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -143,3 +143,5 @@ This now shows the Google reCaptcha that TinyChat use, You may need to click on 
 * Github - https://github.com/ruddernation
 
 * WordPress - https://profiles.wordpress.org/ruddernation
+
+* GitHub Repositories - https://ruddernation-designs.github.io
